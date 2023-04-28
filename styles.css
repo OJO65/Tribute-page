@@ -1,12 +1,13 @@
 .img {
-    margin-left: 0px;
+  justify-content: center;
+    margin-left: 100px;
     margin-right: 50px;
     display: flex;
     border-radius: 50%;
     border: 1px solid black;
     padding: 0px;
-    max-height: 325px;
-    max-width: 325px;
+    max-height: 500px;
+    max-width: 500px;
   }
 
   .p{
@@ -55,6 +56,8 @@
   }
 
   h1, .i {
+    display: flex;
+    justify-content: center;
     margin-top: 2px;
   }
   
